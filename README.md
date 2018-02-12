@@ -1,4 +1,4 @@
-# gcp-secrets
+# gcp-secrets (WIP)
 
 This is a gem/shard/package/script for Ruby/Crystal/Node.js/PHP respectively
 that allows the loading of secure production-only secrets in Google Cloud
