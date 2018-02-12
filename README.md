@@ -6,6 +6,8 @@ Platform. Secrets are stored using the Cloud Metadata Service and are
 automatically loaded as environment variables. The goal of this project is to
 make loading secrets as easy in GCP as it is in AWS.
 
+![](https://raw.githubusercontent.com/sam0x17/gcp-secrets/master/assets/gcp_screenshot.png "GCP Metadata editing screen")
+
 ## Ruby
 
 Add the following to your Gemfile:
